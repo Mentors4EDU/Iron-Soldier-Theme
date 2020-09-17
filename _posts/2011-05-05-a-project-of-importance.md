@@ -1,6 +1,6 @@
 ---
 date: 2018-07-20 12:26:40
-layout: post
+layout: A Project of Importance
 title: A wonderful serenity has taken possession of my entire soul
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -11,7 +11,7 @@ tags:
   - platform
   - javascript
   - vscode
-author: thiagorossener
+author: Andrew
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
