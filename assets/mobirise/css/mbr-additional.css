@@ -732,7 +732,7 @@ a {
   }
 }
 .cid-tFFoAz6C4a .mbr-text {
-  color: #ffdd4a;
+  color: #000000;
 }
 .cid-tFFyrYFm0Q {
   padding-top: 6rem;
@@ -768,7 +768,10 @@ a {
   }
 }
 .cid-tFFyrYFm0Q .mbr-text {
-  color: #ffdd4a;
+  color: #000000;
+}
+.cid-tFFyrYFm0Q .mbr-section-title {
+  color: #000000;
 }
 .cid-tFFnXlh7lA {
   padding-top: 6rem;
@@ -1041,4 +1044,7 @@ a {
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
+}
+.cid-tFFxeuXZHC .media-container-row .mbr-text {
+  color: #ffdd4a;
 }
